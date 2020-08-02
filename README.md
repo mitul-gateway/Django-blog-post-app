@@ -36,7 +36,7 @@ python manage.py runserver
 ```
 <br/>
 
-**Routes For API ** 
+** Routes For API ** 
 
 1> For API login | HTTP-POST 
 
